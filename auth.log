@@ -1,0 +1,508 @@
+Oct 22 00:05:01 etraffic CRON[85464]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 00:05:01 etraffic CRON[85464]: pam_unix(cron:session): session closed for user root
+Oct 22 00:09:01 etraffic CRON[85489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 00:09:01 etraffic CRON[85489]: pam_unix(cron:session): session closed for user root
+Oct 22 00:39:01 etraffic CRON[85706]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 00:39:01 etraffic CRON[85706]: pam_unix(cron:session): session closed for user root
+Oct 22 01:05:01 etraffic CRON[85893]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 01:05:01 etraffic CRON[85893]: pam_unix(cron:session): session closed for user root
+Oct 22 01:09:01 etraffic CRON[85915]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 01:09:01 etraffic CRON[85915]: pam_unix(cron:session): session closed for user root
+Oct 22 01:39:01 etraffic CRON[86130]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 01:39:01 etraffic CRON[86130]: pam_unix(cron:session): session closed for user root
+Oct 22 02:05:01 etraffic CRON[86338]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 02:05:01 etraffic CRON[86338]: pam_unix(cron:session): session closed for user root
+Oct 22 02:09:01 etraffic CRON[86363]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 02:09:01 etraffic CRON[86363]: pam_unix(cron:session): session closed for user root
+Oct 22 02:39:01 etraffic CRON[86585]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 02:39:01 etraffic CRON[86585]: pam_unix(cron:session): session closed for user root
+Oct 22 03:05:01 etraffic CRON[86765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 03:05:01 etraffic CRON[86765]: pam_unix(cron:session): session closed for user root
+Oct 22 03:09:01 etraffic CRON[86786]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 03:09:01 etraffic CRON[86786]: pam_unix(cron:session): session closed for user root
+Oct 22 03:28:01 etraffic CRON[86977]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 03:28:01 etraffic CRON[86977]: pam_unix(cron:session): session closed for user root
+Oct 22 03:39:01 etraffic CRON[87027]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 03:39:01 etraffic CRON[87027]: pam_unix(cron:session): session closed for user root
+Oct 22 03:43:01 etraffic CRON[87105]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 03:43:01 etraffic CRON[87105]: pam_unix(cron:session): session closed for user root
+Oct 22 04:05:01 etraffic CRON[87205]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 04:05:01 etraffic CRON[87205]: pam_unix(cron:session): session closed for user root
+Oct 22 04:09:01 etraffic CRON[87226]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 04:09:01 etraffic CRON[87226]: pam_unix(cron:session): session closed for user root
+Oct 22 04:39:01 etraffic CRON[87431]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 04:39:01 etraffic CRON[87431]: pam_unix(cron:session): session closed for user root
+Oct 22 05:05:01 etraffic CRON[87632]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 05:05:01 etraffic CRON[87632]: pam_unix(cron:session): session closed for user root
+Oct 22 05:09:01 etraffic CRON[87653]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 05:09:01 etraffic CRON[87653]: pam_unix(cron:session): session closed for user root
+Oct 22 05:39:01 etraffic CRON[87858]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 05:39:01 etraffic CRON[87858]: pam_unix(cron:session): session closed for user root
+Oct 22 06:05:01 etraffic CRON[88454]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 06:05:01 etraffic CRON[88454]: pam_unix(cron:session): session closed for user root
+Oct 22 06:08:01 etraffic CRON[88475]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 06:08:01 etraffic CRON[88475]: pam_unix(cron:session): session closed for user root
+Oct 22 06:09:01 etraffic CRON[88483]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 06:09:01 etraffic CRON[88483]: pam_unix(cron:session): session closed for user root
+Oct 22 06:12:01 etraffic CRON[88560]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 06:12:01 etraffic CRON[88560]: pam_unix(cron:session): session closed for user root
+Oct 22 06:23:01 etraffic CRON[88676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 06:23:01 etraffic CRON[88676]: pam_unix(cron:session): session closed for user root
+Oct 22 06:39:01 etraffic CRON[88812]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 06:39:01 etraffic CRON[88812]: pam_unix(cron:session): session closed for user root
+Oct 22 07:05:01 etraffic CRON[89006]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 07:05:01 etraffic CRON[89006]: pam_unix(cron:session): session closed for user root
+Oct 22 07:09:01 etraffic CRON[89036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 07:09:01 etraffic CRON[89036]: pam_unix(cron:session): session closed for user root
+Oct 22 07:39:01 etraffic CRON[89239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 07:39:01 etraffic CRON[89239]: pam_unix(cron:session): session closed for user root
+Oct 22 08:05:01 etraffic CRON[89421]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 08:05:01 etraffic CRON[89421]: pam_unix(cron:session): session closed for user root
+Oct 22 08:09:01 etraffic CRON[89459]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 08:09:01 etraffic CRON[89459]: pam_unix(cron:session): session closed for user root
+Oct 22 08:39:01 etraffic CRON[89669]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 08:39:01 etraffic CRON[89669]: pam_unix(cron:session): session closed for user root
+Oct 22 08:50:50 etraffic sshd[89793]: error: kex_exchange_identification: banner line contains invalid characters
+Oct 22 09:04:09 etraffic sshd[89863]: Connection closed by 103.139.188.156 port 35938 [preauth]
+Oct 22 09:05:01 etraffic CRON[89869]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 09:05:01 etraffic CRON[89869]: pam_unix(cron:session): session closed for user root
+Oct 22 09:09:01 etraffic CRON[89890]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 09:09:01 etraffic CRON[89890]: pam_unix(cron:session): session closed for user root
+Oct 22 09:10:03 etraffic sshd[89952]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.139.188.156  user=root
+Oct 22 09:10:05 etraffic sshd[89952]: Failed password for root from 103.139.188.156 port 34256 ssh2
+Oct 22 09:10:06 etraffic sshd[89952]: Connection closed by authenticating user root 103.139.188.156 port 34256 [preauth]
+Oct 22 09:39:01 etraffic CRON[90115]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 09:39:01 etraffic CRON[90115]: pam_unix(cron:session): session closed for user root
+Oct 22 10:05:01 etraffic CRON[90320]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 10:05:01 etraffic CRON[90320]: pam_unix(cron:session): session closed for user root
+Oct 22 10:09:01 etraffic CRON[90341]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 10:09:01 etraffic CRON[90341]: pam_unix(cron:session): session closed for user root
+Oct 22 10:39:01 etraffic CRON[90544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 10:39:01 etraffic CRON[90544]: pam_unix(cron:session): session closed for user root
+Oct 22 11:05:01 etraffic CRON[90746]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 11:05:01 etraffic CRON[90746]: pam_unix(cron:session): session closed for user root
+Oct 22 11:05:11 etraffic sshd[90750]: error: kex_exchange_identification: banner line contains invalid characters
+Oct 22 11:05:11 etraffic sshd[90749]: error: kex_exchange_identification: banner line contains invalid characters
+Oct 22 11:05:14 etraffic sshd[90751]: Connection closed by 103.139.188.156 port 3332 [preauth]
+Oct 22 11:05:15 etraffic sshd[90753]: Connection closed by 103.139.188.156 port 3338 [preauth]
+Oct 22 11:05:16 etraffic sshd[90755]: Connection closed by 103.139.188.156 port 3346 [preauth]
+Oct 22 11:09:01 etraffic CRON[90830]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 11:09:01 etraffic CRON[90830]: pam_unix(cron:session): session closed for user root
+Oct 22 11:39:01 etraffic CRON[91046]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 11:39:01 etraffic CRON[91046]: pam_unix(cron:session): session closed for user root
+Oct 22 12:00:01 etraffic CRON[91193]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 12:00:01 etraffic CRON[91193]: pam_unix(cron:session): session closed for user root
+Oct 22 12:05:01 etraffic CRON[91222]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 12:05:01 etraffic CRON[91222]: pam_unix(cron:session): session closed for user root
+Oct 22 12:09:01 etraffic CRON[91298]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 12:09:01 etraffic CRON[91298]: pam_unix(cron:session): session closed for user root
+Oct 22 12:39:01 etraffic CRON[91606]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 12:39:01 etraffic CRON[91606]: pam_unix(cron:session): session closed for user root
+Oct 22 13:05:01 etraffic CRON[91828]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 13:05:01 etraffic CRON[91828]: pam_unix(cron:session): session closed for user root
+Oct 22 13:09:01 etraffic CRON[91907]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 13:09:01 etraffic CRON[91907]: pam_unix(cron:session): session closed for user root
+Oct 22 13:39:01 etraffic CRON[92134]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 13:39:01 etraffic CRON[92134]: pam_unix(cron:session): session closed for user root
+Oct 22 14:05:01 etraffic CRON[92278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 14:05:01 etraffic CRON[92278]: pam_unix(cron:session): session closed for user root
+Oct 22 14:09:01 etraffic CRON[92355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 14:09:01 etraffic CRON[92355]: pam_unix(cron:session): session closed for user root
+Oct 22 14:39:01 etraffic CRON[92561]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 14:39:01 etraffic CRON[92561]: pam_unix(cron:session): session closed for user root
+Oct 22 15:05:01 etraffic CRON[92733]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 15:05:02 etraffic CRON[92733]: pam_unix(cron:session): session closed for user root
+Oct 22 15:09:01 etraffic CRON[92814]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 15:09:01 etraffic CRON[92814]: pam_unix(cron:session): session closed for user root
+Oct 22 15:20:58 etraffic sshd[92882]: Accepted password for root from 180.248.3.11 port 50294 ssh2
+Oct 22 15:20:58 etraffic sshd[92882]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 22 15:20:58 etraffic systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 22 15:20:58 etraffic systemd-logind[165]: New session 19779 of user root.
+Oct 22 15:39:01 etraffic CRON[93023]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 15:39:01 etraffic CRON[93023]: pam_unix(cron:session): session closed for user root
+Oct 22 16:05:01 etraffic CRON[93289]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 16:05:02 etraffic CRON[93289]: pam_unix(cron:session): session closed for user root
+Oct 22 16:09:01 etraffic CRON[93333]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 16:09:01 etraffic CRON[93333]: pam_unix(cron:session): session closed for user root
+Oct 22 16:39:01 etraffic CRON[93564]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 16:39:02 etraffic CRON[93564]: pam_unix(cron:session): session closed for user root
+Oct 22 17:05:01 etraffic CRON[93745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 17:05:02 etraffic CRON[93745]: pam_unix(cron:session): session closed for user root
+Oct 22 17:09:01 etraffic CRON[93796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 17:09:01 etraffic CRON[93796]: pam_unix(cron:session): session closed for user root
+Oct 22 17:39:01 etraffic CRON[94005]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 17:39:02 etraffic CRON[94005]: pam_unix(cron:session): session closed for user root
+Oct 22 17:44:32 etraffic sshd[92882]: pam_unix(sshd:session): session closed for user root
+Oct 22 17:44:32 etraffic systemd-logind[165]: Session 19779 logged out. Waiting for processes to exit.
+Oct 22 17:44:32 etraffic systemd-logind[165]: Removed session 19779.
+Oct 22 18:05:01 etraffic CRON[94219]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 18:05:02 etraffic CRON[94219]: pam_unix(cron:session): session closed for user root
+Oct 22 18:09:02 etraffic CRON[94240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 18:09:02 etraffic CRON[94240]: pam_unix(cron:session): session closed for user root
+Oct 22 18:39:01 etraffic CRON[94474]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 18:39:01 etraffic CRON[94474]: pam_unix(cron:session): session closed for user root
+Oct 22 19:05:01 etraffic CRON[94732]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 19:05:01 etraffic CRON[94732]: pam_unix(cron:session): session closed for user root
+Oct 22 19:09:01 etraffic CRON[94760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 19:09:01 etraffic CRON[94760]: pam_unix(cron:session): session closed for user root
+Oct 22 19:39:01 etraffic CRON[95023]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 19:39:01 etraffic CRON[95023]: pam_unix(cron:session): session closed for user root
+Oct 22 20:05:01 etraffic CRON[95220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 20:05:01 etraffic CRON[95220]: pam_unix(cron:session): session closed for user root
+Oct 22 20:06:45 etraffic sshd[95239]: error: kex_exchange_identification: Connection closed by remote host
+Oct 22 20:06:45 etraffic sshd[95240]: Connection closed by 103.139.188.156 port 43190 [preauth]
+Oct 22 20:06:50 etraffic sshd[95242]: Connection closed by 103.139.188.156 port 43786 [preauth]
+Oct 22 20:09:01 etraffic CRON[95246]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 20:09:01 etraffic CRON[95246]: pam_unix(cron:session): session closed for user root
+Oct 22 20:39:01 etraffic CRON[95463]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 20:39:01 etraffic CRON[95463]: pam_unix(cron:session): session closed for user root
+Oct 22 21:05:01 etraffic CRON[95646]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 21:05:01 etraffic CRON[95646]: pam_unix(cron:session): session closed for user root
+Oct 22 21:09:01 etraffic CRON[95674]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 21:09:01 etraffic CRON[95674]: pam_unix(cron:session): session closed for user root
+Oct 22 21:09:17 etraffic sshd[95731]: Invalid user  from 103.139.188.156 port 55153
+Oct 22 21:09:19 etraffic sshd[95731]: Connection closed by invalid user  103.139.188.156 port 55153 [preauth]
+Oct 22 21:36:01 etraffic sshd[95886]: error: kex_exchange_identification: client sent invalid protocol identifier "MGLNDD_103.139.188.156_2222"
+Oct 22 21:39:01 etraffic CRON[95890]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 21:39:01 etraffic CRON[95890]: pam_unix(cron:session): session closed for user root
+Oct 22 22:05:01 etraffic CRON[96078]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 22:05:01 etraffic CRON[96078]: pam_unix(cron:session): session closed for user root
+Oct 22 22:09:01 etraffic CRON[96106]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 22:09:01 etraffic CRON[96106]: pam_unix(cron:session): session closed for user root
+Oct 22 22:39:01 etraffic CRON[96328]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 22:39:01 etraffic CRON[96328]: pam_unix(cron:session): session closed for user root
+Oct 22 23:05:01 etraffic CRON[96518]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 23:05:01 etraffic CRON[96518]: pam_unix(cron:session): session closed for user root
+Oct 22 23:09:01 etraffic CRON[96541]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 23:09:01 etraffic CRON[96541]: pam_unix(cron:session): session closed for user root
+Oct 22 23:39:01 etraffic CRON[96762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 22 23:39:01 etraffic CRON[96762]: pam_unix(cron:session): session closed for user root
+Oct 23 00:00:01 etraffic CRON[96926]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 00:00:01 etraffic CRON[96926]: pam_unix(cron:session): session closed for user root
+Oct 23 00:05:01 etraffic CRON[96988]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 00:05:01 etraffic CRON[96988]: pam_unix(cron:session): session closed for user root
+Oct 23 00:09:01 etraffic CRON[97011]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 00:09:01 etraffic CRON[97011]: pam_unix(cron:session): session closed for user root
+Oct 23 00:39:01 etraffic CRON[97208]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 00:39:01 etraffic CRON[97208]: pam_unix(cron:session): session closed for user root
+Oct 23 01:05:01 etraffic CRON[97399]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 01:05:01 etraffic CRON[97399]: pam_unix(cron:session): session closed for user root
+Oct 23 01:09:01 etraffic CRON[97421]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 01:09:01 etraffic CRON[97421]: pam_unix(cron:session): session closed for user root
+Oct 23 01:39:01 etraffic CRON[97627]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 01:39:01 etraffic CRON[97627]: pam_unix(cron:session): session closed for user root
+Oct 23 02:05:01 etraffic CRON[97817]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 02:05:01 etraffic CRON[97817]: pam_unix(cron:session): session closed for user root
+Oct 23 02:09:01 etraffic CRON[97840]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 02:09:01 etraffic CRON[97840]: pam_unix(cron:session): session closed for user root
+Oct 23 02:39:01 etraffic CRON[98040]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 02:39:01 etraffic CRON[98040]: pam_unix(cron:session): session closed for user root
+Oct 23 03:05:01 etraffic CRON[98220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 03:05:01 etraffic CRON[98220]: pam_unix(cron:session): session closed for user root
+Oct 23 03:09:01 etraffic CRON[98267]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 03:09:01 etraffic CRON[98267]: pam_unix(cron:session): session closed for user root
+Oct 23 03:39:01 etraffic CRON[98462]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 03:39:01 etraffic CRON[98462]: pam_unix(cron:session): session closed for user root
+Oct 23 03:43:01 etraffic CRON[98542]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 03:43:01 etraffic CRON[98542]: pam_unix(cron:session): session closed for user root
+Oct 23 04:05:01 etraffic CRON[98646]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 04:05:01 etraffic CRON[98646]: pam_unix(cron:session): session closed for user root
+Oct 23 04:09:01 etraffic CRON[98675]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 04:09:01 etraffic CRON[98675]: pam_unix(cron:session): session closed for user root
+Oct 23 04:39:01 etraffic CRON[98887]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 04:39:01 etraffic CRON[98887]: pam_unix(cron:session): session closed for user root
+Oct 23 05:05:01 etraffic CRON[99085]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 05:05:01 etraffic CRON[99085]: pam_unix(cron:session): session closed for user root
+Oct 23 05:09:01 etraffic CRON[99109]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 05:09:01 etraffic CRON[99109]: pam_unix(cron:session): session closed for user root
+Oct 23 05:34:02 etraffic sshd[99280]: error: kex_exchange_identification: read: Connection reset by peer
+Oct 23 05:34:17 etraffic sshd[99281]: Connection closed by 103.139.188.156 port 42232 [preauth]
+Oct 23 05:39:01 etraffic CRON[99313]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 05:39:01 etraffic CRON[99313]: pam_unix(cron:session): session closed for user root
+Oct 23 06:05:01 etraffic CRON[99560]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 06:05:01 etraffic CRON[99560]: pam_unix(cron:session): session closed for user root
+Oct 23 06:09:01 etraffic CRON[99587]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 06:09:01 etraffic CRON[99587]: pam_unix(cron:session): session closed for user root
+Oct 23 06:12:01 etraffic CRON[99666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 06:12:01 etraffic CRON[99666]: pam_unix(cron:session): session closed for user root
+Oct 23 06:23:01 etraffic CRON[99789]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 06:23:01 etraffic CRON[99789]: pam_unix(cron:session): session closed for user root
+Oct 23 06:39:01 etraffic CRON[99870]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 06:39:01 etraffic CRON[99870]: pam_unix(cron:session): session closed for user root
+Oct 23 07:05:01 etraffic CRON[100132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 07:05:01 etraffic CRON[100132]: pam_unix(cron:session): session closed for user root
+Oct 23 07:09:01 etraffic CRON[100160]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 07:09:01 etraffic CRON[100160]: pam_unix(cron:session): session closed for user root
+Oct 23 07:39:01 etraffic CRON[100368]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 07:39:01 etraffic CRON[100368]: pam_unix(cron:session): session closed for user root
+Oct 23 08:04:35 etraffic sshd[100574]: error: kex_exchange_identification: client sent invalid protocol identifier "MGLNDD_103.139.188.156_2222"
+Oct 23 08:05:01 etraffic CRON[100576]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 08:05:01 etraffic CRON[100576]: pam_unix(cron:session): session closed for user root
+Oct 23 08:09:01 etraffic CRON[100607]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 08:09:01 etraffic CRON[100607]: pam_unix(cron:session): session closed for user root
+Oct 23 08:09:37 etraffic sshd[100665]: Invalid user  from 103.139.188.156 port 64799
+Oct 23 08:09:40 etraffic sshd[100665]: Connection closed by invalid user  103.139.188.156 port 64799 [preauth]
+Oct 23 08:39:01 etraffic CRON[100808]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 08:39:01 etraffic CRON[100808]: pam_unix(cron:session): session closed for user root
+Oct 23 09:05:01 etraffic CRON[101011]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 09:05:01 etraffic CRON[101011]: pam_unix(cron:session): session closed for user root
+Oct 23 09:09:01 etraffic CRON[101038]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 09:09:01 etraffic CRON[101038]: pam_unix(cron:session): session closed for user root
+Oct 23 09:39:01 etraffic CRON[101322]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 09:39:01 etraffic CRON[101322]: pam_unix(cron:session): session closed for user root
+Oct 23 10:05:01 etraffic CRON[101617]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 10:05:01 etraffic CRON[101617]: pam_unix(cron:session): session closed for user root
+Oct 23 10:09:01 etraffic CRON[101646]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 10:09:01 etraffic CRON[101646]: pam_unix(cron:session): session closed for user root
+Oct 23 10:39:01 etraffic CRON[101883]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 10:39:01 etraffic CRON[101883]: pam_unix(cron:session): session closed for user root
+Oct 23 10:45:25 etraffic sshd[101965]: Connection closed by 103.139.188.156 port 53344 [preauth]
+Oct 23 10:45:26 etraffic sshd[101967]: Connection closed by 103.139.188.156 port 53346 [preauth]
+Oct 23 10:45:27 etraffic sshd[101983]: Connection closed by 103.139.188.156 port 53358 [preauth]
+Oct 23 11:05:01 etraffic CRON[102093]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 11:05:01 etraffic CRON[102093]: pam_unix(cron:session): session closed for user root
+Oct 23 11:09:01 etraffic CRON[102123]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 11:09:01 etraffic CRON[102123]: pam_unix(cron:session): session closed for user root
+Oct 23 11:39:01 etraffic CRON[102357]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 11:39:01 etraffic CRON[102357]: pam_unix(cron:session): session closed for user root
+Oct 23 12:00:01 etraffic CRON[102526]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 12:00:01 etraffic CRON[102526]: pam_unix(cron:session): session closed for user root
+Oct 23 12:05:01 etraffic CRON[102599]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 12:05:01 etraffic CRON[102599]: pam_unix(cron:session): session closed for user root
+Oct 23 12:09:01 etraffic CRON[102622]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 12:09:01 etraffic CRON[102622]: pam_unix(cron:session): session closed for user root
+Oct 23 12:39:01 etraffic CRON[102851]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 12:39:01 etraffic CRON[102851]: pam_unix(cron:session): session closed for user root
+Oct 23 13:05:01 etraffic CRON[103038]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 13:05:01 etraffic CRON[103038]: pam_unix(cron:session): session closed for user root
+Oct 23 13:09:01 etraffic CRON[103080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 13:09:01 etraffic CRON[103080]: pam_unix(cron:session): session closed for user root
+Oct 23 13:39:01 etraffic CRON[103373]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 13:39:01 etraffic CRON[103373]: pam_unix(cron:session): session closed for user root
+Oct 23 13:55:46 etraffic sshd[103474]: error: kex_exchange_identification: banner line contains invalid characters
+Oct 23 13:55:47 etraffic sshd[103473]: error: kex_exchange_identification: banner line contains invalid characters
+Oct 23 14:05:01 etraffic CRON[103518]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 14:05:01 etraffic CRON[103518]: pam_unix(cron:session): session closed for user root
+Oct 23 14:09:01 etraffic CRON[103598]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 14:09:01 etraffic CRON[103598]: pam_unix(cron:session): session closed for user root
+Oct 23 14:30:06 etraffic sshd[103720]: error: kex_exchange_identification: read: Connection reset by peer
+Oct 23 14:30:21 etraffic sshd[103721]: Connection closed by 103.139.188.156 port 50752 [preauth]
+Oct 23 14:39:01 etraffic CRON[103829]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 14:39:01 etraffic CRON[103829]: pam_unix(cron:session): session closed for user root
+Oct 23 15:05:01 etraffic CRON[103972]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 15:05:01 etraffic CRON[103972]: pam_unix(cron:session): session closed for user root
+Oct 23 15:09:01 etraffic CRON[104052]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 15:09:01 etraffic CRON[104052]: pam_unix(cron:session): session closed for user root
+Oct 23 15:39:01 etraffic CRON[104672]: pam_unix(cron:session): session opened for user root by (uid=0)
+Flying{sejauhmanakamumengenalku}
+Oct 23 15:39:01 etraffic CRON[104672]: pam_unix(cron:session): session closed for user root
+Oct 23 16:05:01 etraffic CRON[104838]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 16:05:01 etraffic CRON[104838]: pam_unix(cron:session): session closed for user root
+Oct 23 16:09:01 etraffic CRON[104918]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 16:09:01 etraffic CRON[104918]: pam_unix(cron:session): session closed for user root
+Oct 23 16:39:01 etraffic CRON[105155]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 16:39:01 etraffic CRON[105155]: pam_unix(cron:session): session closed for user root
+Oct 23 17:05:01 etraffic CRON[105296]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 17:05:01 etraffic CRON[105296]: pam_unix(cron:session): session closed for user root
+Oct 23 17:09:01 etraffic CRON[105377]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 17:09:01 etraffic CRON[105377]: pam_unix(cron:session): session closed for user root
+Oct 23 17:39:01 etraffic CRON[105595]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 17:39:01 etraffic CRON[105595]: pam_unix(cron:session): session closed for user root
+Oct 23 18:05:01 etraffic CRON[105772]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 18:05:01 etraffic CRON[105772]: pam_unix(cron:session): session closed for user root
+Oct 23 18:09:01 etraffic CRON[105796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 18:09:01 etraffic CRON[105796]: pam_unix(cron:session): session closed for user root
+Oct 23 18:39:01 etraffic CRON[106019]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 18:39:01 etraffic CRON[106019]: pam_unix(cron:session): session closed for user root
+Oct 23 19:05:01 etraffic CRON[106216]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 19:05:01 etraffic CRON[106216]: pam_unix(cron:session): session closed for user root
+Oct 23 19:09:01 etraffic CRON[106240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 19:09:01 etraffic CRON[106240]: pam_unix(cron:session): session closed for user root
+Oct 23 19:39:01 etraffic CRON[106455]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 19:39:01 etraffic CRON[106455]: pam_unix(cron:session): session closed for user root
+Oct 23 19:58:02 etraffic webmin[613]: Timeout of session for root
+Oct 23 20:05:01 etraffic CRON[106680]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 20:05:01 etraffic CRON[106680]: pam_unix(cron:session): session closed for user root
+Oct 23 20:09:01 etraffic CRON[106709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 20:09:01 etraffic CRON[106709]: pam_unix(cron:session): session closed for user root
+Oct 23 20:39:01 etraffic CRON[106915]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 20:39:01 etraffic CRON[106915]: pam_unix(cron:session): session closed for user root
+Oct 23 21:05:01 etraffic CRON[107114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 21:05:01 etraffic CRON[107114]: pam_unix(cron:session): session closed for user root
+Oct 23 21:09:01 etraffic CRON[107143]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 21:09:01 etraffic CRON[107143]: pam_unix(cron:session): session closed for user root
+Oct 23 21:39:01 etraffic CRON[107360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 21:39:01 etraffic CRON[107360]: pam_unix(cron:session): session closed for user root
+Oct 23 22:05:01 etraffic CRON[107565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 22:05:01 etraffic CRON[107565]: pam_unix(cron:session): session closed for user root
+Oct 23 22:09:01 etraffic CRON[107593]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 22:09:01 etraffic CRON[107593]: pam_unix(cron:session): session closed for user root
+Oct 23 22:19:51 etraffic webmin[613]: Timeout of session for root
+Oct 23 22:39:01 etraffic CRON[107801]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 22:39:01 etraffic CRON[107801]: pam_unix(cron:session): session closed for user root
+Oct 23 23:02:31 etraffic sudo: pam_unix(sudo:auth): conversation failed
+Oct 23 23:02:31 etraffic sudo: pam_unix(sudo:auth): auth could not identify password for [www-data]
+Oct 23 23:02:31 etraffic sudo: www-data : user NOT in sudoers ; TTY=unknown ; PWD=/home/etraffic/webroot/application/cache/mask_1 ; USER=root ; COMMAND=root
+Oct 23 23:05:01 etraffic CRON[108023]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 23:05:01 etraffic CRON[108023]: pam_unix(cron:session): session closed for user root
+Oct 23 23:09:01 etraffic CRON[108054]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 23:09:01 etraffic CRON[108054]: pam_unix(cron:session): session closed for user root
+Oct 23 23:39:01 etraffic CRON[108272]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 23 23:39:01 etraffic CRON[108272]: pam_unix(cron:session): session closed for user root
+Oct 24 00:00:01 etraffic CRON[108440]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 00:00:01 etraffic CRON[108440]: pam_unix(cron:session): session closed for user root
+Oct 24 00:05:01 etraffic CRON[108499]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 00:05:01 etraffic CRON[108499]: pam_unix(cron:session): session closed for user root
+Oct 24 00:09:01 etraffic CRON[108928]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 00:09:01 etraffic CRON[108928]: pam_unix(cron:session): session closed for user root
+Oct 24 00:39:01 etraffic CRON[109146]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 00:39:01 etraffic CRON[109146]: pam_unix(cron:session): session closed for user root
+Oct 24 01:05:01 etraffic CRON[109348]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 01:05:01 etraffic CRON[109348]: pam_unix(cron:session): session closed for user root
+Oct 24 01:09:01 etraffic CRON[109372]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 01:09:01 etraffic CRON[109372]: pam_unix(cron:session): session closed for user root
+Oct 24 01:39:01 etraffic CRON[109613]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 01:39:01 etraffic CRON[109613]: pam_unix(cron:session): session closed for user root
+Oct 24 02:05:01 etraffic CRON[109796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 02:05:01 etraffic CRON[109796]: pam_unix(cron:session): session closed for user root
+Oct 24 02:09:01 etraffic CRON[109820]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 02:09:01 etraffic CRON[109820]: pam_unix(cron:session): session closed for user root
+Oct 24 02:39:01 etraffic CRON[110030]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 02:39:01 etraffic CRON[110030]: pam_unix(cron:session): session closed for user root
+Oct 24 03:05:01 etraffic CRON[110214]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 03:05:01 etraffic CRON[110214]: pam_unix(cron:session): session closed for user root
+Oct 24 03:09:01 etraffic CRON[110238]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 03:09:01 etraffic CRON[110238]: pam_unix(cron:session): session closed for user root
+Oct 24 03:39:01 etraffic CRON[110471]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 03:39:01 etraffic CRON[110471]: pam_unix(cron:session): session closed for user root
+Oct 24 03:43:01 etraffic CRON[110548]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 03:43:01 etraffic CRON[110548]: pam_unix(cron:session): session closed for user root
+Oct 24 04:05:01 etraffic CRON[110656]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 04:05:01 etraffic CRON[110656]: pam_unix(cron:session): session closed for user root
+Oct 24 04:09:01 etraffic CRON[110686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 04:09:01 etraffic CRON[110686]: pam_unix(cron:session): session closed for user root
+Oct 24 04:39:01 etraffic CRON[110904]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 04:39:02 etraffic CRON[110904]: pam_unix(cron:session): session closed for user root
+Oct 24 05:05:01 etraffic CRON[111105]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 05:05:02 etraffic CRON[111105]: pam_unix(cron:session): session closed for user root
+Oct 24 05:09:01 etraffic CRON[111133]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 05:09:01 etraffic CRON[111133]: pam_unix(cron:session): session closed for user root
+Oct 24 05:39:01 etraffic CRON[111335]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 05:39:02 etraffic CRON[111335]: pam_unix(cron:session): session closed for user root
+Oct 24 06:05:01 etraffic CRON[111537]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 06:05:02 etraffic CRON[111537]: pam_unix(cron:session): session closed for user root
+Oct 24 06:09:01 etraffic CRON[111561]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 06:09:01 etraffic CRON[111561]: pam_unix(cron:session): session closed for user root
+Oct 24 06:12:01 etraffic CRON[111638]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 06:12:02 etraffic CRON[111638]: pam_unix(cron:session): session closed for user root
+Oct 24 06:23:01 etraffic CRON[111755]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 06:23:01 etraffic CRON[111755]: pam_unix(cron:session): session closed for user root
+Oct 24 06:39:01 etraffic CRON[111914]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 06:39:01 etraffic CRON[111914]: pam_unix(cron:session): session closed for user root
+Oct 24 07:05:01 etraffic CRON[112093]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 07:05:01 etraffic CRON[112093]: pam_unix(cron:session): session closed for user root
+Oct 24 07:09:01 etraffic CRON[112117]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 07:09:01 etraffic CRON[112117]: pam_unix(cron:session): session closed for user root
+Oct 24 07:39:01 etraffic CRON[112339]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 07:39:01 etraffic CRON[112339]: pam_unix(cron:session): session closed for user root
+Oct 24 08:05:01 etraffic CRON[112539]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 08:05:01 etraffic CRON[112539]: pam_unix(cron:session): session closed for user root
+Oct 24 08:09:01 etraffic CRON[112567]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 08:09:01 etraffic CRON[112567]: pam_unix(cron:session): session closed for user root
+Oct 24 08:39:01 etraffic CRON[112896]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 08:39:01 etraffic CRON[112896]: pam_unix(cron:session): session closed for user root
+Oct 24 08:55:41 etraffic sshd[113061]: error: kex_exchange_identification: client sent invalid protocol identifier "MGLNDD_103.139.188.156_2222"
+Oct 24 09:05:01 etraffic CRON[113114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 09:05:02 etraffic CRON[113114]: pam_unix(cron:session): session closed for user root
+Oct 24 09:09:01 etraffic CRON[113145]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 09:09:01 etraffic CRON[113145]: pam_unix(cron:session): session closed for user root
+Oct 24 09:26:08 etraffic sshd[113308]: Connection closed by 103.139.188.156 port 59192 [preauth]
+Oct 24 09:39:01 etraffic CRON[113386]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 09:39:01 etraffic CRON[113386]: pam_unix(cron:session): session closed for user root
+Oct 24 10:05:01 etraffic CRON[113647]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 10:05:03 etraffic CRON[113647]: pam_unix(cron:session): session closed for user root
+Oct 24 10:09:01 etraffic CRON[113676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 10:09:01 etraffic CRON[113676]: pam_unix(cron:session): session closed for user root
+Oct 24 10:25:23 etraffic sshd[113840]: error: kex_exchange_identification: Connection closed by remote host
+Oct 24 10:39:01 etraffic CRON[113929]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 10:39:01 etraffic CRON[113929]: pam_unix(cron:session): session closed for user root
+Oct 24 11:05:01 etraffic CRON[114122]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 11:05:02 etraffic CRON[114122]: pam_unix(cron:session): session closed for user root
+Oct 24 11:09:01 etraffic CRON[114147]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 11:09:01 etraffic CRON[114147]: pam_unix(cron:session): session closed for user root
+Oct 24 11:22:23 etraffic sshd[114299]: Connection closed by 103.139.188.156 port 56624 [preauth]
+Oct 24 11:22:24 etraffic sshd[114301]: Connection closed by 103.139.188.156 port 56630 [preauth]
+Oct 24 11:22:25 etraffic sshd[114303]: Connection closed by 103.139.188.156 port 56642 [preauth]
+Oct 24 11:34:59 etraffic sshd[114369]: error: kex_exchange_identification: read: Connection reset by peer
+Oct 24 11:38:19 etraffic sshd[114390]: error: kex_exchange_identification: read: Connection reset by peer
+Oct 24 11:38:34 etraffic sshd[114391]: Connection closed by 103.139.188.156 port 44148 [preauth]
+Oct 24 11:39:01 etraffic CRON[114397]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 11:39:01 etraffic CRON[114397]: pam_unix(cron:session): session closed for user root
+Oct 24 12:00:01 etraffic CRON[114580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 12:00:01 etraffic CRON[114580]: pam_unix(cron:session): session closed for user root
+Oct 24 12:05:01 etraffic CRON[114660]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 12:05:03 etraffic CRON[114660]: pam_unix(cron:session): session closed for user root
+Oct 24 12:09:01 etraffic CRON[114708]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 12:09:01 etraffic CRON[114708]: pam_unix(cron:session): session closed for user root
+Oct 24 12:39:01 etraffic CRON[114955]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 12:39:01 etraffic CRON[114955]: pam_unix(cron:session): session closed for user root
+Oct 24 13:05:01 etraffic CRON[115194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 13:05:01 etraffic CRON[115194]: pam_unix(cron:session): session closed for user root
+Oct 24 13:09:01 etraffic CRON[115220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 13:09:01 etraffic CRON[115220]: pam_unix(cron:session): session closed for user root
+Oct 24 13:39:01 etraffic CRON[115506]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 13:39:01 etraffic CRON[115506]: pam_unix(cron:session): session closed for user root
+Oct 24 13:49:05 etraffic webmin[613]: Timeout of session for root
+Oct 24 14:05:01 etraffic CRON[115709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 14:05:01 etraffic CRON[115709]: pam_unix(cron:session): session closed for user root
+Oct 24 14:09:01 etraffic CRON[115736]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 14:09:01 etraffic CRON[115736]: pam_unix(cron:session): session closed for user root
+Oct 24 14:11:02 etraffic sshd[115818]: error: kex_exchange_identification: banner line contains invalid characters
+Oct 24 14:11:02 etraffic sshd[115819]: error: kex_exchange_identification: Connection closed by remote host
+Oct 24 14:17:27 etraffic webmin[613]: Timeout of session for root
+Oct 24 14:23:37 etraffic sshd[115911]: error: kex_exchange_identification: client sent invalid protocol identifier "GET / HTTP/1.1"
+Oct 24 14:39:01 etraffic CRON[115988]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 14:39:01 etraffic CRON[115988]: pam_unix(cron:session): session closed for user root
+Oct 24 15:05:01 etraffic CRON[116200]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 15:05:01 etraffic CRON[116200]: pam_unix(cron:session): session closed for user root
+Oct 24 15:09:01 etraffic CRON[116224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 15:09:01 etraffic CRON[116224]: pam_unix(cron:session): session closed for user root
+Oct 24 15:39:01 etraffic CRON[116433]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 15:39:01 etraffic CRON[116433]: pam_unix(cron:session): session closed for user root
+Oct 24 15:53:35 etraffic sshd[116603]: Accepted password for root from 180.248.10.49 port 63085 ssh2
+Oct 24 15:53:35 etraffic sshd[116603]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 24 15:53:35 etraffic systemd-logind[165]: New session 19988 of user root.
+Oct 24 15:53:35 etraffic systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 24 16:03:33 etraffic sudo:     root : TTY=pts/3 ; PWD=/home/etraffic ; USER=root ; COMMAND=/bin/su
+Oct 24 16:03:33 etraffic sudo: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Oct 24 16:03:33 etraffic su: (to root) root on pts/3
+Oct 24 16:03:33 etraffic su: pam_limits(su:session): Could not set limit for 'core' to soft=0, hard=-1: Operation not permitted; uid=0,euid=0
+Oct 24 16:03:33 etraffic su: pam_unix(su:session): session opened for user root by root(uid=0)
+Oct 24 16:05:01 etraffic CRON[122432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 16:05:01 etraffic CRON[122432]: pam_unix(cron:session): session closed for user root
+Oct 24 16:09:01 etraffic CRON[122981]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 16:09:01 etraffic CRON[122981]: pam_unix(cron:session): session closed for user root
+Oct 24 16:39:01 etraffic CRON[127310]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 16:39:01 etraffic CRON[127310]: pam_unix(cron:session): session closed for user root
+Oct 24 16:45:58 etraffic sshd[116603]: pam_unix(sshd:session): session closed for user root
+Oct 24 16:45:58 etraffic systemd-logind[165]: Session 19988 logged out. Waiting for processes to exit.
+Oct 24 16:45:58 etraffic su: pam_unix(su:session): session closed for user root
+Oct 24 16:45:58 etraffic sudo: pam_unix(sudo:session): session closed for user root
+Oct 24 16:45:58 etraffic systemd-logind[165]: Removed session 19988.
+Oct 24 16:51:46 etraffic sshd[127648]: Accepted password for root from 192.168.193.22 port 2773 ssh2
+Oct 24 16:51:46 etraffic sshd[127648]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 24 16:51:46 etraffic systemd-logind[165]: New session 19996 of user root.
+Oct 24 16:51:46 etraffic systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 24 16:58:51 etraffic sshd[127718]: Accepted password for root from 192.168.193.22 port 3083 ssh2
+Oct 24 16:58:51 etraffic sshd[127718]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 24 16:58:51 etraffic systemd-logind[165]: New session 20000 of user root.
+Oct 24 17:05:01 etraffic CRON[127776]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 17:05:01 etraffic CRON[127776]: pam_unix(cron:session): session closed for user root
+Oct 24 17:06:40 etraffic sshd[127794]: Accepted password for root from 192.168.193.22 port 3620 ssh2
+Oct 24 17:06:40 etraffic sshd[127794]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 24 17:06:40 etraffic systemd-logind[165]: New session 20002 of user root.
+Oct 24 17:09:01 etraffic CRON[127885]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 24 17:09:01 etraffic CRON[127885]: pam_unix(cron:session): session closed for user root
+Oct 24 17:14:35 etraffic sshd[127909]: Accepted password for root from 192.168.193.22 port 3958 ssh2
+Oct 24 17:14:35 etraffic sshd[127909]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 24 17:14:35 etraffic systemd-logind[165]: New session 20004 of user root.
